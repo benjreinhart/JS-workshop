@@ -4,7 +4,7 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
 
 ## Outline
 
-### 1. Intro to JS.
+### 1. Intro to JavaScript
   * Strings, Numbers, Objects, Functions
   * The console
   * Arrays
@@ -27,6 +27,7 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
 
 ## JavaScript
 * [The Good Parts](http://shop.oreilly.com/product/9780596517748.do) (Pretty much the JS Bible and highly recommended)
+* [CodEcademy](http://www.codecademy.com/#!/exercises/0)
 * [List of JavaScript Quirks and Advice](http://bonsaiden.github.com/JavaScript-Garden/)
 * [Essential Namespacing and Patterns](http://addyosmani.com/blog/essential-js-namespacing/)
 
