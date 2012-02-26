@@ -31,8 +31,8 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
 * [Essential Namespacing and Patterns](http://addyosmani.com/blog/essential-js-namespacing/)
 
 ## jQuery
-* [jQuery Fundamentals](http://jqfundamentals.com/book/index.html) (**Highly recommended**)
-* [Best Practices/tips](http://24ways.org/2011/your-jquery-now-with-less-suck) (**Required reading if you're goign to be using jQuery**)
+* [jQuery Fundamentals](http://jqfundamentals.com/book/index.html) (Highly recommended)
+* [Best Practices/tips](http://24ways.org/2011/your-jquery-now-with-less-suck) (**Required** reading if you're goign to be using jQuery)
 
 ## Architecture/patterns
 * [Essential Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
