@@ -10,6 +10,7 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
   * Arrays
   * Inheritance
   * Common methods
+
 ### 2. Intro to jQuery
   * DOM ready
   * Selectors and Traversing
