@@ -4,10 +4,16 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
 
 ## Outline
 
-1. Intro to JS.
+### 1. Intro to JS.
   * Grammer
-  * String, Numbers, Objects, Functions
+  * Strings, Numbers, Objects, Functions
   * Arrays
   * Inheritance
   * Common methods
-2. Intro to jQuery
+### 2. Intro to jQuery
+  * DOM ready
+  * Selectors and Traversing
+  * Caching retrieved elements
+  * The console
+  * Reading/Setting properties
+  * Iterating
