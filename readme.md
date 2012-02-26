@@ -49,6 +49,7 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
 * [Little Book on Coffeescript](http://arcturo.github.com/library/coffeescript/) (Short book, highly recommended for CS)
 
 ## MISC
+* [Nettuts Beginner best practices](http://net.tutsplus.com/tutorials/javascript-ajax/24-javascript-best-practices-for-beginners/)
 * [JavaScript Weekly](http://javascriptweekly.com/) (Great weekly newsletter)
 * [HTML5 Weekly](http://html5weekly.com/) (Great weekly newsletter)
 * [Ruby Weekly](http://rubyweekly.com/) (Great weekly newsletter)
