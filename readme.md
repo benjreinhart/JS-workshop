@@ -8,8 +8,10 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
   * The console
   * Variables and comments
   * Strings and Numbers
+  * Arrays and Objects
   * Functions
-  * Objects and Arrays
+  * Booleans and expressions
+  * Conditionals, loops and iterating
   * Inheritance (the prototype)
   * Methods
   * The 'WAT' factor
