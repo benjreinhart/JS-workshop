@@ -5,16 +5,18 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
 ## Outline
 
 ### 1. Intro to JavaScript
+  * Variables and comments
   * Strings, Numbers, Objects, Functions
   * The console
   * Arrays
   * Methods
-  * Inheritance
+  * Inheritance (the prototype)
+  * The 'WAT' factor
 
 ### 2. Intro to jQuery
   * Including jQuery and other JS files
   * DOM ready
-  * Selectors and Traversing
+  * Selectors and traversing
   * Caching retrieved elements
   * Reading/Setting properties
   * Iterating
@@ -26,7 +28,7 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
 # Resources
 
 ## JavaScript
-* [The Good Parts](http://shop.oreilly.com/product/9780596517748.do) (Pretty much the JS Bible and highly recommended)
+* [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) (Pretty much the JS Bible and highly recommended)
 * [CodEcademy](http://www.codecademy.com/#!/exercises/0)
 * [List of JavaScript Quirks and Advice](http://bonsaiden.github.com/JavaScript-Garden/)
 * [Essential Namespacing and Patterns](http://addyosmani.com/blog/essential-js-namespacing/)
