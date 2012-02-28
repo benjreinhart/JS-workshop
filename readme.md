@@ -6,9 +6,10 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
 
 ### 1. Intro to JavaScript
   * Variables and comments
-  * Strings, Numbers, Objects, Functions
   * The console
-  * Arrays
+  * Strings and Numbers
+  * Functions
+  * Objects and Arrays
   * Methods
   * Inheritance (the prototype)
   * The 'WAT' factor
