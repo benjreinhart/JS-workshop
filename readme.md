@@ -10,8 +10,8 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
   * Strings and Numbers
   * Functions
   * Objects and Arrays
-  * Methods
   * Inheritance (the prototype)
+  * Methods
   * The 'WAT' factor
 
 ### 2. Intro to jQuery
