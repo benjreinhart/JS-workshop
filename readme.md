@@ -27,6 +27,11 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
 
 # Resources
 
+Documentation:
+* [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript/Reference)
+
+Mozilla has excellant documentation that is much more up to date and accurate than W3Schools, I encourage you to use this for your documentation/reference needs.
+
 ## JavaScript
 * [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) (Pretty much the JS Bible and highly recommended)
 * [CodEcademy](http://www.codecademy.com/#!/exercises/0)
