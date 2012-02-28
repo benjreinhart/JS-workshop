@@ -5,8 +5,8 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
 ## Outline
 
 ### 1. Intro to JavaScript
-  * Variables and comments
   * The console
+  * Variables and comments
   * Strings and Numbers
   * Functions
   * Objects and Arrays
