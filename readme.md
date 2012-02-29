@@ -9,7 +9,7 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
   * The console
   * Variables and comments
   * Strings and Numbers
-  * Arrays and Objects
+  * Objects and Arrays
   * Functions
   * Booleans and expressions
   * Conditionals, loops and iterating
