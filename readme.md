@@ -6,17 +6,18 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
 
 ### 1. Intro to JavaScript
   * Introduction
-  * The console
-  * Variables and comments
+  * The Console
+  * Variables and Comments
+  * Primitive Data Types and Built-in Objects
   * Strings and Numbers
   * Objects and Arrays
   * Functions
-  * Booleans and expressions
-  * Conditionals, loops and iterating
+  * Booleans and Expressions
+  * Conditionals, Loops and Iterating
   * The Prototype
   * Methods
-  * Classes and inheritance
-  * The 'WAT' factor
+  * Classes and Inheritance
+  * The 'WAT' Factor
 
 ### 2. Intro to jQuery
   * Including jQuery and other JS files
