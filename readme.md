@@ -11,7 +11,7 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
   * Primitive Data Types and Built-in Objects
   * Strings and Numbers
   * Objects and Arrays
-  * Functions
+  * Functions, arguments, and this
   * Booleans and Expressions
   * Conditionals, Loops and Iterating
   * The Prototype
