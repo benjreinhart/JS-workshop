@@ -15,8 +15,7 @@ Idea here is to learn JavaScript and jQuery through practical application of bui
   * Booleans and Expressions
   * Conditionals, Loops and Iterating
   * The Prototype
-  * Methods
-  * Classes and Inheritance
+  * Inheritance: Classes and Methods
 
 ### 2. Intro to jQuery
   * Including jQuery and other JS files
